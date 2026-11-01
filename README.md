@@ -1,2 +1,1 @@
-# dodgers-scoring-first-analysis
-Analyzing the relationship between scoring first and winning for the 2025 Los Angeles Dodgers using Python and SQL
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/af25b01b-43a9-4392-8ddd-7074cb17e36e" />
